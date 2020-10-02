@@ -46,6 +46,7 @@
     "imagePath": "https://i.imgur.com/CQKb2yw.jpg",
     "email": "dmitry.bondarev@gmail.com",
     "location": "St.-Petersburg",
-    "id": "some uuid string"
+    "id": "some uuid string",
+    "projects": []
 }
 ```
